@@ -12,4 +12,3 @@ console.log(
 }
 
 //window.onload = var1;
-
