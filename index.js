@@ -6,5 +6,3 @@ console.log(
 );
   //console.log("This is really cool!");
 });
-
-
