@@ -11,4 +11,4 @@ function var1() {
   document.getElementById('text').innerHTML = 'This is really cool!';
 }
 
-window.onload = var1;
+//window.onload = var1;
