@@ -10,7 +10,7 @@ console.log(
   "This console.log() fires when index.js loads - before DOMContentLoaded is triggered"
 );
 
-function var1() {
+/*function var1() {
   document.getElementById('text').innerHTML = 'This is really cool!';
 }
 
