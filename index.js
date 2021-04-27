@@ -1,5 +1,6 @@
 // Your code goes here
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function var1() {
+document.getElementById('text').innerHTML = 'This is really cool!';
   console.log("The DOM has loaded");
 });
 
