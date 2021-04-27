@@ -8,7 +8,7 @@ console.log(
 );
 
 function var1() {
-  document.getElementById('text').innerHTML = 'This is really cool!';
+  document.querySelector('#text').innerHTML = 'This is really cool!';
 }
 
 //window.onload = var1;
